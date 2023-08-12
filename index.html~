@@ -172,7 +172,7 @@ DECLARE "{{ insert TEST/SAMPLE.html}} in the main index.html located down of the
 <script src="custom.js/isotope.min.js"></script>
 <script src="custom.js/init.isotope.js"></script>
 <script src="custom.js/script.js"></script>
-<script src="_libs/sticky/sticky.js"></script>
+<script src="libs/sticky/sticky.js"></script>
 <script src="main.js/modernizr.js"></script>
 
 
